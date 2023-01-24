@@ -1,1 +1,1 @@
-
+This project is build with the help of ReactJS as well as CSS. It is athe frontend of a Resturant website from which you can order food as well as see the different meals offered at different times such as breakfast, lunch, evening and dinner.
